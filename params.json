@@ -1,0 +1,6 @@
+{
+  "name": "BGIDB_DEMO",
+  "tagline": "A Fundus Ground Truth Building Tool with Automatic DDLS Classification for Glaucoma Research",
+  "body": "# BGIDB\r\nBGIDB is A Fundus Ground Truth Building Tool with Automatic DDLS Classification for Glaucoma Research.\r\nThe whole source code will be uploaded after the our work is published.\r\n\r\n# BGIDB_DEMO\r\nThis is a demarcation demo of BGIDB, only the demarcation operation is applied. The whole\r\nfunctions and source code of this project will be uploaded for public after this work is\r\npublished.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
